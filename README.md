@@ -2,7 +2,10 @@
 - https://www.coursera.org/learn/ai-for-everyone
 - Pytorch tutorials
 - Ian Goodfellow: Deep Learning (Adaptive Computation and Machine Learning series)
-- Computerphile YT channel
+- Computerphile YT
+- Frecodecamp YT
+
+
 
 
 
