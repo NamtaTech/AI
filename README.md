@@ -4,7 +4,7 @@
 - Ian Goodfellow: Deep Learning (Adaptive Computation and Machine Learning series)
 - Computerphile YT
 - Frecodecamp YT
-
+- ProjectPro
 
 
 
