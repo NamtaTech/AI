@@ -12,3 +12,10 @@
 # PLATFORMS
 - Google Colab
 
+
+
+# READINGS
+- https://youtu.be/5p248yoa3oE?si=tMOMKzgk010FAzVx
+- https://aifund.ai/
+
+
